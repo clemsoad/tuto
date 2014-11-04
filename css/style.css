@@ -1,0 +1,42 @@
+.blabla {
+	color: white;
+	padding-top: 200px;
+	font-family: 'Sofia', Serif;
+	font-size: 400%;
+}
+
+.liens{
+	color: #FF4441;
+}
+
+.heading{
+	background: url(http://www.imcreator.com/wp-content/uploads/2013/09/129.jpg) no-repeat;
+	height: 500px;
+	background-size: cover;
+	text-align: center;
+	background-attachment: fixed;
+}
+
+.nav{
+
+}
+
+.navbar-default{
+	background-color: rgba(0,0,0,0.6);
+	border: none;
+	color: white;
+}
+
+.lemonde{
+	max-width: 30%;
+	height: auto;
+}
+
+.btn-default{
+	background-color: rgba(255,255,255,0.5);
+}
+
+.btn-default:hover{
+	background-color: rgba(0,0,0,0.5);
+	color:#FFF;
+}
